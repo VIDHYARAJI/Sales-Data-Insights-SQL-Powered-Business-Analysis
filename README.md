@@ -42,38 +42,9 @@ Improve customer segmentation and retention strategies.
 
 Understand the impact of discounts on revenue.
 
-📂 Project Structure
-
-Sales_Analysis_SQL_Project/
-
-│-- datasets/ 
-
-│   ├── customers.csv
-
-│   ├── markets.csv
-
-│   ├── products.csv
-
-│   ├── transactions.csv
-
-│   ├── date.csv
-
-│-- queries/               
-│   ├── beginner_queries.sql
-
-│   ├── intermediate_queries.sql
-
-│   ├── advanced_queries.sql
-
-│-- README.md 
-
 🤝 Contributing
 
 Contributions are welcome! If you find any improvements or want to add more queries, feel free to create a pull request or open an issue.
-
-📜 License
-
-This project is open-source and available under the MIT License.
 
 🔗 Connect with Me
 

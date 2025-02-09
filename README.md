@@ -45,17 +45,20 @@ Understand the impact of discounts on revenue.
 📂 Project Structure
 
 Sales_Analysis_SQL_Project/
-│-- datasets/               # Folder containing raw data files
+
+│-- datasets/ 
 │   ├── customers.csv
 │   ├── markets.csv
 │   ├── products.csv
 │   ├── transactions.csv
 │   ├── date.csv
-│-- queries/                # Folder with SQL scripts
+
+│-- queries/               
 │   ├── beginner_queries.sql
 │   ├── intermediate_queries.sql
 │   ├── advanced_queries.sql
-│-- README.md               # Project documentation
+
+│-- README.md 
 
 🤝 Contributing
 

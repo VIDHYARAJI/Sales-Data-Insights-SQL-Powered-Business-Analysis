@@ -47,15 +47,22 @@ Understand the impact of discounts on revenue.
 Sales_Analysis_SQL_Project/
 
 │-- datasets/ 
+
 │   ├── customers.csv
+
 │   ├── markets.csv
+
 │   ├── products.csv
+
 │   ├── transactions.csv
+
 │   ├── date.csv
 
 │-- queries/               
 │   ├── beginner_queries.sql
+
 │   ├── intermediate_queries.sql
+
 │   ├── advanced_queries.sql
 
 │-- README.md 

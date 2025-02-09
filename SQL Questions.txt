@@ -1,0 +1,32 @@
+Basic:
+
+1) Retrieve all transactions
+2) Get unique product categories
+3) Count the number of customers
+4) Total sales amount
+5) Find transactions for a specific date
+
+
+Intermediate:
+
+6)  Get total sales by market
+7)  Find the top 5 highest-selling products
+8)  Monthly sales trend
+9)  Customers with more than 5 transactions
+10) Find the most popular product category
+11) Find the top-selling product in each market
+12) The monthly growth rate in sales
+13) Find customers who made their first purchase in the last 3 months
+14) Products with the highest average order value
+
+
+Advanced:
+
+15) Find the top customer by total spending
+16) Compare this year's sales vs. last year’s sales
+17) Find customers who have not made any purchases in the previous 6 months
+18) Find product sales percentage contribution
+19) Customer segmentation based on total spending (High, Medium, Low)
+20) Detect seasonal trends in product sales
+21) Find the most loyal customers (Customers who make purchases every month)
+22) Find price sensitivity: How discounts impact sales volume
